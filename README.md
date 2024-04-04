@@ -1,6 +1,6 @@
 [![MasterHead](https://static.myfigurecollection.net/upload/pictures/2023/09/07/3745732.gif)](https://github.com/khripkooleh)
 <h1 align="center">Hi 👋, I'm Khripko Oleh</h1>
-<h3 align="center">As a Python programmer and software engineer, I thrive on crafting elegant solutions and architecting robust applications with finesse and precision, leveraging the power of Python to bring ideas to life.</h3>
+<h3 align="center">I'm a Python programmer and software engineer, passionate about creating elegant solutions and robust applications using Python's power and precision.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khripkooleh&label=Profile%20views&color=0e75b6&style=flat" alt="khripkooleh" /> </p>
 
