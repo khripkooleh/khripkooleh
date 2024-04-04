@@ -1,6 +1,6 @@
 [![MasterHead](https://static.myfigurecollection.net/upload/pictures/2023/09/07/3745732.gif)](https://github.com/khripkooleh)
 <h1 align="center">Hi 👋, I'm Khripko Oleh</h1>
-<h3 align="center">I'm a Python programmer and software engineer, passionate about creating elegant solutions and robust applications using Python's power and precision.</h3>
+<h3 align="center">As a Python programmer and software engineer, I thrive on crafting elegant solutions and architecting robust applications with finesse and precision, leveraging the power of Python to bring ideas to life.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khripkooleh&label=Profile%20views&color=0e75b6&style=flat" alt="khripkooleh" /> </p>
 
@@ -17,6 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ultraboytheyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ultraboytheyt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/oleh-khripko-268a96301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oleh-khripko-268a96301/" height="30" width="40" /></a>
 <a href="https://instagram.com/igotchrsedd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igotchrsedd" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/khripkooleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khripkooleh" height="30" width="40" /></a>
 <a href="https://discord.gg/rqwrrwqswslla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rqwrrwqswslla" height="30" width="40" /></a>
@@ -30,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khripkooleh&show_icons=true&locale=en" alt="khripkooleh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khripkooleh&" alt="khripkooleh" /></p>
+
